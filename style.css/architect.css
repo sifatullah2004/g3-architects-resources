@@ -201,7 +201,7 @@ main{
     filter: grayscale(100%);
 }
 footer{
-    background-color: cornsilk;
+    background-color: rgb(255, 244, 231);
     max-width: 1400px;
     height: 100px;
     margin: 100px auto;
@@ -284,9 +284,9 @@ footer{
         width: 100%;
         margin: 40px auto;
     }
-    #experience-bridge{
+    #experience-badge{
         margin-top: 20px;
-        margin-left: 15px;
+        margin-left: 20px;
     }
     .performance{
         display: grid;
